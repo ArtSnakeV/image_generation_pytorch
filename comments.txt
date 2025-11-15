@@ -1,0 +1,13 @@
+pip install torch
+pip install diffusers
+pip install transformers
+
+pip freeze > requirements.txt
+pip install torchvision
+pip install accelerate
+
+pip install --index-url https://download.pytorch.org/whl/cu128 torch torchvision torchaudio --upgrade
+
+# model_id = "runwayml/stable-diffusion-v1-5"
+model_id = "stabilityai/stable-diffusion-2-1-base"
+model_id = "stabilityai/sd-turbo"
