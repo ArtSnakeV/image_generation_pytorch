@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/image_generation_pytorch.iml" filepath="$PROJECT_DIR$/.idea/image_generation_pytorch.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/image_generation_pytorch_with_window.iml" filepath="$PROJECT_DIR$/.idea/image_generation_pytorch_with_window.iml" />
     </modules>
   </component>
 </project>
